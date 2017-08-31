@@ -25,7 +25,7 @@ de 23 personas, hay una probabilidad del 50,7% de que al menos dos personas de e
  matemática que contradice la común intuición.
 
 Luego de haber leído (y aprendido) sobre esta paradoja, me entró la duda ¿cuán probable es que al 
-momento de generar un ID único de 10 caracteres ya haya exista otro creado con el mismo valor?, 
+momento de generar un ID único de 10 caracteres ya exista otro creado con el mismo valor?, 
 ¿cuán únicos son realmente estos IDs?.
 
 Saqué lápiz y papel y me puse a calcular (en verdad abrí Excel y puse los valores ahi).
