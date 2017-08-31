@@ -10,7 +10,7 @@ Soy Camilo, chileno radicado en Estados Unidos. Soy [sansano](http://diccionario
 
 #### Simplicidad
 
-La idea del blog es exponer un cierto tópico en un artículo de no más de 400 palabras. A mi parecer 400 palabras es una cantidad adecuada de palabras, las suficientes para expresar una idea. Te ayuda a comprender el tópico sin tantos rodeos y me ayuda a mi a desarrollar mis habilidades de síntesis. Todos ganamos.
+La idea del blog es exponer temas en artículos de no más de 400 palabras. A mi parecer 400 palabras es una cantidad adecuada de palabras, las suficientes para expresar una idea. Te ayuda a comprender un tópico sin tantos rodeos y me ayuda a mi a desarrollar mis habilidades de síntesis. Todos ganamos.
 
 #### En español
 
