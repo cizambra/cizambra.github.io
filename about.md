@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Soy Camilo, chileno radicado en Estados Unidos. Soy [sansano](http://diccionariochileno.cl/term/sansano) y Software Development Engineer @ AWS Dev Tools. Puedes ver mi [perfil in LinkedIn](https://www.linkedin.com/in/cizambra/).
 
-### More Information
+### La idea tras el blog
 
-A place to include any other types of information that you'd like to include about yourself.
+#### Simplicidad
 
-### Contact me
+La idea del blog es exponer un cierto tópico en un artículo de no más de 400 palabras. A mi parecer 400 palabras es una cantidad adecuada de palabras, las suficientes para expresar una idea. Te ayuda a comprender el tópico sin tantos rodeos y me ayuda a mi a desarrollar mis habilidades de síntesis. Todos ganamos.
 
-[email@domain.com](mailto:email@domain.com)
+#### En español
+
+Hay muchos libros, artículos, blogs y sitios en general con material de apoyo para hablantes del inglés. ¿Y de español?...muy poco. StackOverflow hace un tiempo lanzó una versión en español, pero ¿qué hay de ese material de aprendizaje que encontramos en artículos y blogs?
+
+Espero este espacio te ayude a aprender lo mismo que yo aprendí (en muchas ocasiones de mala manera y no en las mejores circunstancias).
+
+### Contáctame
+
+[cizambra@gmail.com](mailto:cizambra@gmail.com)
