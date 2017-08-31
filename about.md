@@ -14,7 +14,7 @@ La idea del blog es exponer un cierto tópico en un artículo de no más de 400 
 
 #### En español
 
-Hay muchos libros, artículos, blogs y sitios en general con material de apoyo para hablantes del inglés. ¿Y de español?...muy poco. StackOverflow hace un tiempo lanzó una versión en español, pero ¿qué hay de ese material de aprendizaje que encontramos en artículos y blogs?
+Hay muchos libros, artículos, blogs y sitios en general con material de apoyo para hablantes del inglés. ¿Y de español?...muy poco. StackOverflow hace un tiempo [lanzó una versión en español](https://es.stackoverflow.com/), pero ¿qué hay de ese material de aprendizaje que encontramos en artículos y blogs?
 
 Espero este espacio te ayude a aprender lo mismo que yo aprendí (en muchas ocasiones de mala manera y no en las mejores circunstancias).
 
