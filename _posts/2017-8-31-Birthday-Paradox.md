@@ -2,6 +2,7 @@
 layout: post
 title: La paradoja del cumpleaños
 ---
+![Birthday party]({{ site.url }}/assets/childrens_holiday.jpg)
 
 Hace un tiempo necesitaba generar IDs únicos para uno de mis proyectos. En realidad la tarea era
 bastante sencilla, escoger cómo crear dichos IDs únicos sólo basandome en una restricción; cada
