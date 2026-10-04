@@ -1,0 +1,2 @@
+Sitemap: https://cizambra.github.io/sitemap.xml
+Sitemap: https://cizambra.github.io/kyno/sitemap.xml
